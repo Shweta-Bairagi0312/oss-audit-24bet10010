@@ -1,0 +1,7 @@
+===================================
+ Open Source Manifesto - 29 March 2026
+===================================
+
+I use Python every day. To me, freedom means creativity.
+In the future, I want to build an AI app and share it openly with the world.
+I believe in collaboration, transparency, and community-driven innovation.

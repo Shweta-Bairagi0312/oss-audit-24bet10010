@@ -79,11 +79,11 @@ bc utility for Script 4 percentage calculation: sudo apt install bc
 
 **Step-by-step Setup**
 
-# 1. Clone the repository
+ **1. Clone the repository**
 git clone https://github.com/yourusername/oss-audit-24BET10010.git  
 cd oss-audit-24BET10010  
 
-# 2. Make all scripts executable
+**2. Make all scripts executable**
 chmod +x script1.sh  
 chmod +x script2.sh  
 chmod +x script3.sh  
@@ -92,21 +92,21 @@ chmod +x script5.sh
 
 **Running Each Script**
 
-# Script 1 — System Identity Report
+**Script 1 — System Identity Report**
 ./script1.sh  
 
-# Script 2 — FOSS Package Inspector
+**Script 2 — FOSS Package Inspector**
 ./script2.sh  
 
-# Script 3 — Disk and Permission Auditor
+**Script 3 — Disk and Permission Auditor**
 ./script3.sh  
 
-# Script 4 — Log File Analyzer  
-# Usage: ./script4.sh <logfile> [keyword]  
+**Script 4 — Log File Analyzer**  
+**usage: ./script4.sh <logfile> [keyword]**  
 ./script4.sh /var/log/syslog error  
 ./script4.sh /var/log/auth.log WARNING  
 
-# Script 5 — Open Source Manifesto Generator (interactive)
+**script 5 — Open Source Manifesto Generator (interactive)**
 ./script5.sh  
 
 Note: Script 4 requires a readable log file. On systems where /var/log/syslog requires root access, run with sudo ./script4.sh /var/log/syslog or point it to a log file your user can read.

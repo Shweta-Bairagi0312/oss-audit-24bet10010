@@ -75,8 +75,8 @@ bc utility for Script 4 percentage calculation: sudo apt install bc
 
 Step-by-step Setup
 # 1. Clone the repository
-git clone https://github.com/yourusername/oss-audit-24BET10010.git
-cd oss-audit-24BET10010
+git clone https://github.com/yourusername/oss-audit-24bet10010.git
+cd oss-audit-24bet10010
 
 # 2. Make all scripts executable
 chmod +x script1.sh

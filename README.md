@@ -19,15 +19,14 @@ This repository contains all deliverables for The Open Source Audit capstone pro
 
 The project examines Python's origin story, its licensing model, its footprint on a Linux system, the FOSS ecosystem surrounding it, and a critical comparison against its proprietary counterpart (MATLAB).
 
-Repository Contents
 oss-audit-24bet10010/
-├── README.md                          ← This file
-├── manifesto_sweta.txt                ← Generated manifesto file
-├── script1.sh                         ← Script 1: System Identity Report
-├── script2.sh                         ← Script 2: FOSS Package Inspector
-├── script3.sh                         ← Script 3: Disk & Permission Auditor
-├── script4.sh                         ← Script 4: Log File Analyzer
-└── script5.sh                         ← Script 5: Open Source Manifesto Generator
+├── README.md
+├── manifesto_sweta.txt
+├── script1.sh
+├── script2.sh
+├── script3.sh
+├── script4.sh
+└── script5.sh
 
 The project report PDF is submitted separately via the VITyarthi portal.
 
